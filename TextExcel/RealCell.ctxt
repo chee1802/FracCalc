@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RealCell
+comment1.params=input
+comment1.target=RealCell(java.lang.String)
+comment2.params=
+comment2.target=double\ getDoubleValue()
+comment3.params=
+comment3.target=java.lang.String\ abbreviatedCellText()
+comment4.params=
+comment4.target=java.lang.String\ fullCellText()
+comment5.params=compare
+comment5.target=int\ compareTo(RealCell)
+numComments=6

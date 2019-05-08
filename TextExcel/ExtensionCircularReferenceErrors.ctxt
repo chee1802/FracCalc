@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ExtensionCircularReferenceErrors
+comment1.params=
+comment1.target=void\ initializeGrid()
+comment2.params=row\ col\ formula\ description
+comment2.target=void\ assertEvalError(int,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=row\ col\ expected\ formula\ description
+comment3.target=void\ assertEvalOK(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ testCircularReference()
+numComments=5

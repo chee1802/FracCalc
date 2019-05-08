@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Spreadsheet
+comment1.params=
+comment1.target=Spreadsheet()
+comment10.params=x\ y
+comment10.target=int\ compareCells(Cell,\ Cell)
+comment2.params=command
+comment2.target=java.lang.String\ processCommand(java.lang.String)
+comment3.params=sort
+comment3.target=java.lang.String\ bubbleSort(SpreadsheetLocation[])
+comment4.params=
+comment4.target=int\ getRows()
+comment5.params=
+comment5.target=int\ getCols()
+comment6.params=location
+comment6.target=Cell\ getCell(Location)
+comment7.params=
+comment7.target=java.lang.String\ getGridText()
+comment8.params=input
+comment8.target=java.lang.String\ getAbbreviatedCellText(java.lang.String)
+comment9.params=
+comment9.target=void\ clearSpreadsheet()
+numComments=11

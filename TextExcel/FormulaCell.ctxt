@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FormulaCell
+comment1.params=input\ spreadsheet
+comment1.target=FormulaCell(java.lang.String,\ Spreadsheet)
+comment2.params=
+comment2.target=double\ getDoubleValue()
+comment3.params=things
+comment3.target=double\ getNormalFormula(java.lang.String[])
+comment4.params=value
+comment4.target=double\ getValue(java.lang.String)
+comment5.params=args
+comment5.target=double\ getMethodFormula(java.lang.String[])
+numComments=6

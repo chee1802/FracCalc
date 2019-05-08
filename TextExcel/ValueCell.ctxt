@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ValueCell
+comment1.params=input
+comment1.target=ValueCell(java.lang.String)
+comment2.params=
+comment2.target=double\ getDoubleValue()
+numComments=3

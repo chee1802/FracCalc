@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SpreadsheetLocation
+comment1.params=cellName
+comment1.target=SpreadsheetLocation(java.lang.String)
+comment2.params=row\ col
+comment2.target=SpreadsheetLocation(int,\ int)
+comment3.params=
+comment3.target=int\ getRow()
+comment4.params=
+comment4.target=int\ getCol()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
